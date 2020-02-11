@@ -18,9 +18,13 @@ body {
     line-height: 1.4;
 }
 
+.banner4 {
+    height: 20px;
+}
 /* Make .svg files in the carousel display properly in older browsers */
 .carousel-inner .item img[src$=".svg"] {
     width: 100%;
+    
 }
 
 /* QR code generator */

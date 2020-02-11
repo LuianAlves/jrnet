@@ -1,0 +1,45 @@
+
+/*RODAPÉ*/
+
+.rodape {
+  text-align: justify;
+  padding-bottom: 0;
+  padding-top: 10px;
+}
+
+.rodape .row {
+  margin: 0;
+}
+.rodape ul {
+  font-style: italic;
+  font-weight: 400;
+}
+
+.rodape h5 {
+  font-style: italic;
+}
+
+.rodape1 .logg {
+  width: 70px;
+  height: 70px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.rodape1 {
+  text-transform: capitalize;
+  font-weight: 400;
+  font-style: italic;
+  padding-bottom: 30px;
+}
+
+.rodape iframe {
+  width: 100%; 
+  min-height: 180px; 
+  border: none; 
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 15px;
+  margin-left: 25%;
+}
+
